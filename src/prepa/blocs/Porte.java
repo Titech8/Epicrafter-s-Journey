@@ -1,4 +1,7 @@
-package prepa;
+package prepa.blocs;
+
+import prepa.IllegalBlocException;
+import prepa.PorteVerrouilleException;
 
 public class Porte extends Bloc {
 	private boolean verrouillee;

@@ -1,4 +1,4 @@
-package prepa;
+package prepa.blocs;
 
 public interface IBloc {
 	int min_longueur = 1;

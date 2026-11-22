@@ -1,4 +1,6 @@
-package prepa;
+package prepa.blocs;
+
+import prepa.IllegalBlocException;
 
 public class Mur extends Bloc {
 	private boolean porteur;

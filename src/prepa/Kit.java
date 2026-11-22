@@ -1,6 +1,10 @@
 package prepa;
 
 import java.util.Set;
+
+import prepa.blocs.IBloc;
+import prepa.blocs.Mur;
+
 import java.util.LinkedHashSet;
 
 public class Kit {
